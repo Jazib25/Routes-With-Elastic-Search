@@ -8,7 +8,7 @@ const sluglist = require("./routes/sluglist");
 const slugproduct = require("./routes/searchbyslug");
 const express = require("express");
 const app = express();
-const PORT = 3002;
+const PORT = 3005;
 
 (async () => {
   try {
